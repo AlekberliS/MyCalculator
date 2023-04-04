@@ -27,7 +27,7 @@ function switchTheme() {
         theme.href = "darkmode.css";
         darkMode.innerHTML = "Light Mode 🌞";
     } else {
-        theme.href = "light.css";
+        theme.href = "lightmode.css";
         darkMode.innerHTML = "Dark Mode 🌙";
     } 
   
